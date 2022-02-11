@@ -1,0 +1,9 @@
+.payment {
+    margin-right: 12px;
+    margin-left: 10px
+}
+.toolBarStyle {
+    justify-content: center;
+    column-gap: 50px;
+    flex-wrap: wrap;
+}
